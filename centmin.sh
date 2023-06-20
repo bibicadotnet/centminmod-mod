@@ -1,6 +1,6 @@
 #!/bin/bash
 # Установка часового пояса
-timedatectl set-timezone Europe/Moscow
+timedatectl set-timezone Asia/Ho_Chi_Minh
 # Если выдается ошибка
 # Error unpacking rpm package initscripts-9.49.53-1.el7_9.1.x86_64
 chattr -Vi /usr/lib/udev/rules.d/60-net.rules
