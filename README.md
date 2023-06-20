@@ -6,7 +6,7 @@
 yum -y install wget yum-utils nano; yum -y upgrade; wget https://raw.githubusercontent.com/sanikovich/centminmod/main/kernel5.sh; chmod +x kernel5.sh; ./kernel5.sh
 ```
 
-## Step 2. Centminmod Installation
+## Step 2. Centminmod Installation (PHP 8.2)
 ```
 wget https://raw.githubusercontent.com/bibicadotnet/centminmod-mod/main/centmin.sh; chmod +x centmin.sh; ./centmin.sh
 ```
