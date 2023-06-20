@@ -8,7 +8,7 @@ yum -y install wget yum-utils nano; yum -y upgrade; wget https://raw.githubuserc
 
 ## Step 2. Centminmod Installation
 ```
-wget https://raw.githubusercontent.com/sanikovich/centminmod/main/centmin.sh; chmod +x centmin.sh; ./centmin.sh
+wget https://raw.githubusercontent.com/bibicadotnet/centminmod-mod/main/centmin.sh; chmod +x centmin.sh; ./centmin.sh
 ```
 
 ## Step 3. Install some add-ons and updates
