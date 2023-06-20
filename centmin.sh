@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/sanikovich/centminmod/main/custom_config.
 # For latest 130.00beta01 install
 # PHP 8.1.x default beta installer.
 # yum -y update; curl -O https://centminmod.com/betainstaller81.sh && chmod 0700 betainstaller81.sh && bash betainstaller81.sh
-yum -y update; curl -O https://centminmod.com/betainstaller.sh && chmod 0700 betainstaller.sh && bash betainstaller.sh
+yum -y update; curl -O https://centminmod.com/betainstaller82.sh && chmod 0700 betainstaller82.sh && bash betainstaller82.sh
 
 # pre-create Nginx HTTPS site’s dhparam file before hand to speed up subsequent Nginx vhost creation routines. On slow systems, this command will take a few minutes to complete.
 openssl dhparam -out /usr/local/nginx/conf/ssl/dhparam.pem 2048
